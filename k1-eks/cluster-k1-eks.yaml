@@ -41,7 +41,7 @@ metadata:
   namespace: default
 spec:
   clusterName: k1-eks
-  replicas: 2
+  replicas: 4
   template:
     spec:
       bootstrap:
